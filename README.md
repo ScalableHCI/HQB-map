@@ -1,4 +1,12 @@
-# HQB-map  
+# Update
+
+**An online version (with GPS positioning) is now available here:**
+
+=> [ScalableHCI.com/map](https://scalablehci.com/map) <=
+
+___
+
+### HQB-map (archive)
 A 2024 map of the HuaQiang Bei electronic markets in Shenzhen.  This is based on a previous 2011? map that was created by the Dangerous Prototype crew.
 
 [Download PDF](https://raw.githubusercontent.com/ScalableHCI/HQB-map/main/HQB-Electronic-Markets-Map_2024-1.pdf)
